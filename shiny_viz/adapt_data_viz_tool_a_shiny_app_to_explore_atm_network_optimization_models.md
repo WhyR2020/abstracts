@@ -1,0 +1,7 @@
+# ADAPT Data Viz Tool: a shiny app to explore ATM network optimization models
+
+Authors: Stefano Guidi(Department of Social, Political and Cognitive Sciences, University of Siena)Giuseppe Frau, Lorenzo Castelli, Salvatore Miccichè
+
+# Description 
+
+supporting strategic and pre-tactical levels of air traffic control network management enabling better strategic planning. Prediction models for trajectory-based operations were developed within the project, to optimize the use of Airspace sectors during the day minimizing capacity problems in the whole European sky. Different sets of results were computed for all the EU flights of September 1st 2017, varying models’ parameters. The results comprise flights’ trajectories, departure times, flexibility in entry/exit times in all the airspace sectors, and impact on each sector by time of the day and flight level in terms of used capacity and, for saturated sectors only (i.e. sectors operating at full capacity), a criticality index.  A Shiny data visualization app for the model results was developed to allow comparisons of the computed solutions and support strategic level decision by network managers and other involved ATM actors. Built with shinydashboard+, the app features two main sections: One comprises interactive leaflet maps showing critical sectors and Area Control Centers by hour during the day (and flight level), all the flights constraining the sectors, and static small multiplies maps. The other shows performance indicators with interactive plotly charts and value boxes.
