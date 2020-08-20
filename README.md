@@ -1,4 +1,4 @@
-# Abstracts
+# Abstracts (Timezone: CEST (UTC+2))
 
 <img src="https://raw.githubusercontent.com/WhyR2020/abstracts/master/img/timeline_temp.jpg"
      alt="main" />
