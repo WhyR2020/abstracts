@@ -1,6 +1,6 @@
 # Dynamic and interactive graph visualizations using netCoin
 
-Authors: Modesto Escobar(Universidad de Salamanca)Luis Martínez-Uríbe, Pablo Cabrera-Álvarez, Carlos Prieto, David Barrios
+Authors: Modesto Escobar (Universidad de Salamanca) Luis Martínez-Uríbe, Pablo Cabrera-Álvarez, Carlos Prieto, David Barrios
 
 # Description 
 

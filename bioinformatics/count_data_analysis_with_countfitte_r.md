@@ -1,6 +1,6 @@
 # Count data analysis with countfitteR.
 
-Authors: Jaroslaw Chilimoniuk(University of Wroclaw)Alicja Gosiewska, Jadwiga Slowik, Romano Weiss, P. Markus Deckert, Stefan Rödiger, Michal Burdukiewicz
+Authors: Jaroslaw Chilimoniuk (University of Wroclaw) Alicja Gosiewska, Jadwiga Slowik, Romano Weiss, P. Markus Deckert, Stefan Rödiger, Michal Burdukiewicz
 
 # Description 
 

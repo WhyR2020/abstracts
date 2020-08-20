@@ -1,6 +1,6 @@
 # AmpGram: in search of antimicrobial peptides in R
 
-Authors: Katarzyna Sidorczuk(University of Wroclaw)Michal Burdukiewicz, Dominik Rafacz, Filip Pietluch, Jaroslaw Chilimoniuk, Stefan Rödiger, Przemyslaw Gagat
+Authors: Katarzyna Sidorczuk (University of Wroclaw) Michal Burdukiewicz, Dominik Rafacz, Filip Pietluch, Jaroslaw Chilimoniuk, Stefan Rödiger, Przemyslaw Gagat
 
 # Description 
 

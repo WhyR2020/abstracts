@@ -1,6 +1,6 @@
 # ADAPT Data Viz Tool: a shiny app to explore ATM network optimization models
 
-Authors: Stefano Guidi(Department of Social, Political and Cognitive Sciences, University of Siena)Giuseppe Frau, Lorenzo Castelli, Salvatore Miccichè
+Authors: Stefano Guidi (Department of Social, Political and Cognitive Sciences, University of Siena) Giuseppe Frau, Lorenzo Castelli, Salvatore Miccichè
 
 # Description 
 

@@ -1,6 +1,6 @@
 # mlr3shiny: A graphical user interface for easy machine learning in R
 
-Authors: Tetzlaff Laurens(Jheronimus Academy of Data Science)Prof. Dr. Gero Szepannek
+Authors: Tetzlaff Laurens (Jheronimus Academy of Data Science) Prof. Dr. Gero Szepannek
 
 # Description 
 

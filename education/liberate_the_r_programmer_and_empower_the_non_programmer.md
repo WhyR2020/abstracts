@@ -1,6 +1,6 @@
 # “Liberate” the R programmer and “empower” the non programmer
 
-Authors: Faris Naji(Tercen)Marion Libouban
+Authors: Faris Naji (Tercen) Marion Libouban
 
 # Description 
 

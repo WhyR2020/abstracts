@@ -1,6 +1,6 @@
 # Creating an API Package
 
-Authors: Andrew Collier(Exegetic Analytics)Matt Dennis
+Authors: Andrew Collier (Exegetic Analytics) Matt Dennis
 
 # Description 
 

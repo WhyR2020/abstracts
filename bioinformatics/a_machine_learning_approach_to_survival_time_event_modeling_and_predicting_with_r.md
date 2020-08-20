@@ -1,6 +1,6 @@
 # A machine-learning approach to survival time-event modeling and predicting with R
 
-Authors: Lubomír Štepánek(Department of Biomedical Statistics, Institute of Biophysics and Informatics, First Faculty of Medicine, Charles University, Prague, Czech Republic & Department of Statistics and Probability, Faculty of Informatics and Statistics, University of Economics, Prague, Czech Republic)Filip Habarta, Stanislav Kovác, Filip Pazdírek
+Authors: Lubomír Štepánek (Department of Biomedical Statistics, Institute of Biophysics and Informatics, First Faculty of Medicine, Charles University, Prague, Czech Republic & Department of Statistics and Probability, Faculty of Informatics and Statistics, University of Economics, Prague, Czech Republic) Filip Habarta, Stanislav Kovác, Filip Pazdírek
 
 # Description 
 

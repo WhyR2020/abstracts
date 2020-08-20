@@ -1,6 +1,6 @@
 # Clustering time series
 
-Authors: Iwo Augustynski(Wroclaw University of Economics and Business)Pawel Laskos-Grabowski
+Authors: Iwo Augustynski (Wroclaw University of Economics and Business) Pawel Laskos-Grabowski
 
 # Description 
 

@@ -1,6 +1,6 @@
 # Supporting your community using R Shiny
 
-Authors: Astrid Radermacher(Exegetic)Matthew Dennis
+Authors: Astrid Radermacher (Exegetic) Matthew Dennis
 
 # Description 
 

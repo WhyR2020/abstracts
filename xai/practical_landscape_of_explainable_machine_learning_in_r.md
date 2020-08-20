@@ -1,6 +1,6 @@
 # Practical landscape of Explainable Machine Learning in R
 
-Authors: Szymon Maksymiuk(MI2DataLab Faculty of Mathematics and Information Science WUT)Alicja Gosiewska
+Authors: Szymon Maksymiuk (MI2DataLab Faculty of Mathematics and Information Science WUT) Alicja Gosiewska
 
 # Description 
 

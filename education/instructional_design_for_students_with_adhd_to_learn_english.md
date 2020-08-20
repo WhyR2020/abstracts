@@ -1,6 +1,6 @@
 # Instructional Design for Students with ADHD to Learn English
 
-Authors: Shella Rina Agustien Shella(Sampoerna University)Maryam Mursadi
+Authors: Shella Rina Agustien Shella (Sampoerna University) Maryam Mursadi
 
 # Description 
 

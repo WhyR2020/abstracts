@@ -1,6 +1,6 @@
 # Building the first Kenyan Census data package
 
-Authors: Shelmith Kariuki(Independent Consultant)None
+Authors: Shelmith Kariuki (Independent Consultant) None
 
 # Description 
 

@@ -1,6 +1,6 @@
 # Handling complex missing data problems in time series
 
-Authors: Steffen Moritz(Institute for Data Science, Engineering, and Analytics, TH Köln)Thomas Bartz-Beielstein
+Authors: Steffen Moritz (Institute for Data Science, Engineering, and Analytics, TH Köln) Thomas Bartz-Beielstein
 
 # Description 
 

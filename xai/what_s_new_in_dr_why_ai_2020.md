@@ -1,6 +1,6 @@
 # What’s new in DrWhy.AI? (2020)
 
-Authors: Hubert Baniecki(Warsaw University of Technology)Przemyslaw Biecek
+Authors: Hubert Baniecki (Warsaw University of Technology) Przemyslaw Biecek
 
 # Description 
 

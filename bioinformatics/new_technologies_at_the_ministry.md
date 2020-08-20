@@ -1,6 +1,6 @@
 # New Technologies at the Ministry
 
-Authors: Piotr Nowosielski(Ministry of Health)Klaudiusz Witczak
+Authors: Piotr Nowosielski (Ministry of Health) Klaudiusz Witczak
 
 # Description 
 

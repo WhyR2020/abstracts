@@ -1,6 +1,6 @@
 # Outlier detection using Self Organizing Map
 
-Authors: Krystian Zielinski(PwC)dr hab. Krzysztof Najman, prof. UG
+Authors: Krystian Zielinski (PwC) dr hab. Krzysztof Najman, prof. UG
 
 # Description 
 
