@@ -1,7 +1,9 @@
-# Creating an API Package
+# Using {trundler} to construct the ZAF Alcohol Index
 
 Authors: Andrew Collier (Exegetic Analytics) Matt Dennis
 
 # Description 
 
-An API is a great way to get your hands on a swathe of data. However, interacting directly with an API, even using superb packages like {httr}, can be painful. An API Package provides a neat wrapper around an API so that its functionality is easily accessible from R. There are numerous examples of great API packages, like {rtweet}, {telegram} and {googledrive}. In this practical talk we�ll demonstrate the process of creating an API package (using the Trundler API as an example) and also discuss best practices.
+The South African government banned the sale of alcohol for three months, as part of its strategy to combat COVID-19. When the ban was finally lifted, many people had completely exhausted their alcohol supplies. We wondered if prices would rise as stores re-opened, so we built an index to track changes in alcohol prices.  
+
+We used Trundler, a service which provides historical product pricing data from about 150 retailers through an API, to get the data. In our talk, we’ll discuss the methodology we used to build the index; demonstrate how we used {trundler} to source data from the Trundler API; and of course, we’ll also present the index itself.
