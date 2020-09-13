@@ -1,4 +1,4 @@
-# plaette2vec: A new way to explore color paletttes
+# palette2vec: A new way to explore color paletttes
 
 Authors: Emil Hvitfeldt (University of Southern California) 
 
