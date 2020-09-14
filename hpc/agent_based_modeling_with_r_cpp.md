@@ -1,6 +1,6 @@
-# Agent-based modeling with RCpp
+# Agent-based Modeling with Goal-Oriented Action Planning (GOAP) and RCpp
 
-Authors: Jeremiah Reyes (Statista) 
+Authors: Jeremiah Lasquety-Reyes (MECS, Leuphana Universität Lüneburg)
 
 # Description 
 

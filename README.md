@@ -25,7 +25,7 @@
 |||
 |HPC                          |Maria Kubara                |[Multithreading computing in R](https://github.com/WhyR2020/abstracts/blob/master/hpc/multithreading_computing_in_r.md)                                                                                                                                                   |
 |HPC                          |Jadwiga Slowik              |[Where Rcpp wins and where it fails - the light and the dark side of R and Rcpp integration](https://github.com/WhyR2020/abstracts/blob/master/hpc/where_rcpp_wins_and_where_it_fails_the_light_and_the_dark_side_of_r_and_rcpp_integration.md)                           |
-|HPC                          |Jeremiah Reyes              |[Agent-based modeling with RCpp](https://github.com/WhyR2020/abstracts/blob/master/hpc/agent_based_modeling_with_r_cpp.md)                                                                                                                                                |
+|HPC                          |Jeremiah Reyes              |[Agent-based Modeling with Goal-Oriented Action Planning (GOAP) and RCpp](https://github.com/WhyR2020/abstracts/blob/master/hpc/agent_based_modeling_with_r_cpp.md)                                                                                                                                                |
 |||
 |Highlighted - Visualizations |Emil Hvitfeldt              |[plaette2vec: A new way to explore color paletttes](https://github.com/WhyR2020/abstracts/blob/master/highlighted_visualizations/plaette2vec_a_new_way_to_explore_color_paletttes.md)                                                                                     |
 |||
