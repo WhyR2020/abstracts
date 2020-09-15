@@ -1,6 +1,6 @@
 # Differential equations or: how we learned to stop worrying and tackle the coronavirus modeling crisis in Poland
 
-Authors: Piotr Nowosielski (Ministry of Health) Klaudiusz Witczak
+Authors: Klaudiusz Witczak (Ministry of Health) 
 
 # Description 
 
